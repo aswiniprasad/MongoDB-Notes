@@ -1,8 +1,8 @@
 # MongoDB Notes
-Notes on modeling guidelines for designing data models when working with document database (NoSQL- MongoDB).
+Notes on modeling guidelines for designing data models when working with document database (MongoDB).
 
 ## What is MongoDB (Just a brief intro)?
-* MongoDB is a document oriented NoSQL databse used for high volume data storage in a flexible way.
+* MongoDB is a document oriented NoSQL database used for high volume data storage in a flexible way.
 * We call tables and rows in traditional relational databses, whereas in MongoDB we call them as collections and documents.
 * These documents consist of key-value pairs which are the primary unit of data in MongoDB.
 * This document structure is kind of more in line with how we construct classes and their objects in programming languages.
